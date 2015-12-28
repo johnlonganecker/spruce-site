@@ -1,0 +1,55 @@
+p {
+  font-size: 1.5em;
+}
+
+section {
+  margin: 0 0 3em 0;
+}
+
+#homepage-hero {
+  background-color: #40c0ff;
+  height: 100vh;
+}
+
+#homepage-hero-title {
+  padding-top: 20%;
+}
+
+#homepage-hero-logo {
+  padding-top: 10%;
+}
+
+#homepage-hero h1 {
+  font-size: 5em;
+  padding: 0;
+  margin: 0;
+}
+
+#homepage-hero p {
+  font-size: 1.5em;
+  padding: 0 0 7% 0;
+  margin: 0;
+}
+
+#homepage-hero .button {
+  background-color: #004400;
+}
+
+#footer {
+  background-color: #004400;
+  height: 40px;
+  margin: 0;
+}
+
+#hero-canvas {
+  display: none;
+}
+
+
+.no-padding {
+  padding: 0;
+}
+
+.no-right-padding {
+  padding-right: 0;
+}
